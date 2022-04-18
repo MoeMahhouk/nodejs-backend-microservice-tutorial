@@ -1,0 +1,22 @@
+{
+  "author": "Moe",
+  "description": "Microservices examples with nodejs and MongoDB",
+  "keywords": [
+    "microservice",
+    "backend",
+    "noSQL"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "fcc-express-bground": "github:freeCodeCamp/fcc-express-bground-pkg"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
